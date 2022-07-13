@@ -1,0 +1,4 @@
+The Cauchy distribution(the Lorentz distribution), is a family of continuous probably distributions which resemble the normal distribution family of curves and it's symmetric.
+it has a taller peak than a normal and unlike the normal distribution, it’s fat tails fall much more slowly.
+The Cauchy distribution is well known for the fact that it’s expected value and other moments do not exist.The median and mode do exist and they are equal. 
+However, the Central Limit theorem doesn’t work for the limiting distribution of the mean.
